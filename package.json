@@ -1,0 +1,22 @@
+{
+  "name": "stripe-nodejs-examples",
+  "version": "1.0.0",
+  "description": "Stripe Node.js Examples",
+  "main": "subscription.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imesh/stripe-nodejs-examples.git"
+  },
+  "author": "imesh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/imesh/stripe-nodejs-examples/issues"
+  },
+  "homepage": "https://github.com/imesh/stripe-nodejs-examples#readme",
+  "dependencies": {
+    "stripe": "^5.5.0"
+  }
+}
